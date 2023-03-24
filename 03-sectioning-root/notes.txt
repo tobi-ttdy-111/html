@@ -1,0 +1,8 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#sectioning_root
+
+
+<body>
+representa el contenido del documento
+atributos:
+    * atributos globales

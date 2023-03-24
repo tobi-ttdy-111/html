@@ -1,0 +1,14 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#demarcating_edits
+
+
+<del>
+marca las partes de un texto o documento que han sido suprimidas o sustituidas
+atributos:
+    - solo atributos globales
+
+
+<ins>
+marca las partes de un texto que han sido añadidos al documento
+atributos:
+    - solo atributos globales

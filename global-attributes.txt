@@ -1,0 +1,89 @@
+
+global-reference: reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+reference: https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes
+
+
+class = "nombreClase" => permiten que CSS y JavaScript seleccionen y accedan a elementos específicos
+frecuencia de uso: *****
+recomendada: true
+
+
+dir = ( "ltr" / "rtl" / "auto" ) => indica la direccionalidad del texto del elemento
+frecuencia de uso: *
+recomendada: true
+
+
+id = "nombreId" => define un identificador único, mismo proposito que 'class'
+frecuencia de uso: *****
+recomendada: true
+
+
+style = estilo(s) css ( "color: red; font..." ) => declaraciones de estilo CSS que se aplicarán al elemento
+frecuencia de uso: **
+recomendada: false
+
+
+atributos de control de eventos:
+    - onabort
+    - onautocomplete
+    - onautocompleteerror
+    * onblur
+    - oncancel
+    - oncanplay
+    - oncanplaythrough
+    - onchange
+    * onclick
+    - onclose
+    - oncontextmenu
+    - oncuechange
+    - ondblclick
+    - ondrag
+    - ondragend
+    - ondragenter
+    - ondragexit
+    - ondragleave
+    - ondragover
+    - ondragstart
+    - ondrop
+    - ondurationchange
+    - onemptied
+    - onended
+    - onerror
+    * onfocus
+    - oninput
+    - oninvalid
+    * onkeydown
+    * onkeypress
+    * onkeyup
+    - onload
+    - onloadeddata
+    - onloadedmetadata
+    - onloadstart
+    - onmousedown
+    - onmouseenter
+    * onmouseleave
+    * onmousemove
+    * onmouseout
+    * onmouseover
+    * onmouseup
+    * onmousewheel
+    * onpause
+    * onplay
+    - onplaying
+    - onprogress
+    - onratechange
+    - onreset
+    - onresize
+    * onscroll
+    - onseeked
+    - onseeking
+    - onselect
+    - onshow
+    - onsort
+    - onstalled
+    * onsubmit
+    - onsuspend
+    - ontimeupdate
+    * ontoggle
+    - onvolumechange
+    - onwaiting

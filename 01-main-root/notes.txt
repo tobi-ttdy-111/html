@@ -1,0 +1,8 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#main_root
+
+
+<html>
+raiz de el documento, el resto de elementos van dentro de este
+atributos:
+    * lang = idioma ( "en" / "es" / ... ) => define el idioma del documento

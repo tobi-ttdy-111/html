@@ -1,0 +1,42 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#text_content
+
+
+<div>
+sirve para crear secciones o agrupar contenidos
+atributos:
+    * algunos atributos globales
+
+
+<p>
+distribuye el texto en párrafos
+atributos:
+    * algunos atributos globales
+
+
+<ol>
+permite definir listas o viñetas ordenadas
+atributos:
+    * algunos atributos globales
+    - start = inicio ( "1" / "2" / "3", ... ) => define el inicio de la numeracion de la lista
+    * type = tipo de numeracion ( "1" / "a" / "A" / "i" / "I" ) => declara el tipo de viñetas
+    - reversed => hacer que la lista tenga un orden descendente
+
+
+<ul>
+crea una lista no ordenada
+atributos:
+    * algunos atributos globales
+    * type = tipo de biñeta ( "disc" / "circle" / "square" ) => define el tipo de biñeta a emplear
+
+
+<li>
+declara cada uno de los elementos de una lista
+atributos:
+    * algunos atributos globales
+
+
+<hr>
+representa un cambio de tema entre párrafos (línea)
+atributos:
+    * algunos atributos globales

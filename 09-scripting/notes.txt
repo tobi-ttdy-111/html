@@ -1,0 +1,14 @@
+
+reference: https://developer.mozilla.org/es/docs/Web/HTML/Element#scripting
+
+
+<canvas>
+dibujar gráficos a través de secuencias de comandos ( por lo general JavaScript )
+atributos:
+    * solo atributos globales
+
+
+<script>
+incrustar código o datos ejecutables ( enlazar un documento de tipo JavaScript )
+atributos:
+    - solo atributos globales

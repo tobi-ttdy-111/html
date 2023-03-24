@@ -1,0 +1,44 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#table_content
+
+
+<table>
+representa información presentada en una tabla
+atributos:
+    * solo atributos globales
+
+
+<thead>
+Define un conjunto de filas conde irá el encabezado de las columnas de la tabla
+atributos:
+    - solo atributos globales
+
+
+<tbody>
+Comprende el cuerpo de la tabla
+atributos:
+    - solo atributos globales
+
+
+<tfoot>
+Define un conjunto de filas que resumen las columnas de la tabla
+atributos:
+    - solo atributos globales
+
+
+<tr>
+Define una fila de celdas de una tabla
+atributos:
+    - solo atributos globales
+
+
+<td>
+Define una celda de una tabla que contiene datos
+atributos:
+    - solo atributos globales
+
+
+<th>
+Define una celda como encabezado de un grupo de celdas de tabla
+atributos:
+    - solo atributos globales

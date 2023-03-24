@@ -1,0 +1,14 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#embedded_content
+
+
+<embed>
+representa un punto de integración para una aplicación externa
+atributos:
+    * src = direccion ( "url" / "https://..." ) => contiene la direccion de la aplicacion a incrustar
+
+
+<iframe>
+epresenta un contexto de navegación anidado
+atributos:
+    * src = direccion ( "url" / "https://..." ) => contiene la direccion del contenito a integrar

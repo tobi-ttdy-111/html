@@ -1,0 +1,56 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning
+
+
+<header>
+representa un grupo de ayudas, principalmente la navegacion
+atributos:
+    * solo atributos globales
+
+
+<nav>
+proporcionar enlaces de navegación
+atributos:
+    * solo atributos globales
+
+
+<main>
+representa el contenido principal del <body>
+atributos:
+    * solo atributos globales
+
+
+<section>
+representa una sección genérica de un documento
+atributos:
+    * solo atributos globales
+
+
+<article>
+representa una composición auto-contenida en el documento
+atributos:
+    * solo atributos globales
+
+
+<footer>
+representa un pie de página
+atributos:
+    * solo atributos globales
+
+
+<address>
+aporta información de contacto
+atributos:
+    * solo atributos globales
+
+
+<aside>
+sección de la página que está indirectamente relacionado con el contenido principal
+atributos:
+    * solo atributos globales
+
+
+<h1>, <h2>, <h3>, <h4>, <h5> y <h6>
+implementan seis niveles de encabezado del documento, <h1> es el más importante, y <h6>, el menos importante
+atributos:
+    * solo atributos globales

@@ -1,0 +1,63 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#inline_text_semantics
+
+
+<a>
+crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, etc
+atributos:
+    * href = direccion ( "./image.jpg" / "url" / "https://..." / "#someId" ) => contiene la direccion URL a la cual apunta el enlace
+    * target = ( "_blank" / "_parent" / "_top" ) => especifica en donde desplegar la URL enlazada
+
+
+<br>
+produce un salto de linea (enter)
+atributos:
+    - algunos globales
+
+
+<span>
+contenedor de texto en línea
+atributos:
+    - algunos globales
+
+
+<small>
+hace el tamaño del texto una talla más pequeña
+atributos:
+    * algunos globales
+
+
+<strong>
+apropiado para marcar con especial énfasis las partes más importantes de un texto
+atributos:
+    - algunos globales
+
+
+<cite>
+marca una referencia a una fuente, o el autor de un texto citado
+atributos:
+    * algunos globales
+
+
+<i>
+muestra el texto marcado con un estilo en cursiva o italica
+atributos:
+    - algunos globales
+
+
+<b>
+texto en negritas
+atributos:
+    - algunos globales
+
+
+<u>
+Muestra el texto subrayado
+atributos:
+    - algunos globales
+
+
+<s>
+muestra el texto tachado con una linea horizontal
+atributos:
+    - algunos globales

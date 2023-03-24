@@ -1,0 +1,30 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#document_metadata
+
+
+<head>
+provee información general (metadatos) acerca del documento
+
+
+<title>
+define el título del documento que se muestra en el Browser
+atributos:
+    - solo atributos globales
+
+
+<meta>
+aporta información sobre el documento
+atributos:
+    * charset = "UTF-8" => indica la codificación de caracteres utilizada en el documento
+    * http-equiv = "X-UA-Compatible" => información sobre los encabezado de respuesta HTTP
+    * content = "IE=edge" => los datos que se quieren asociar a 'name'
+    * name = "viewport" => nombre al que se asocia la metainformación
+    * content = "width=device-width, initial-scale=1.0" => ...
+
+
+<link>
+especifica la relación entre el documento actual y un recurso externo
+atributos:
+    * rel = relacion ( "stylesheet" / "shortcut icon" / ... ) => indica la relación del documento enlazado con el actual
+    * href = direccion ( url / path ) => especifica la ubicacion del el recurso enlazado
+    - type = tipo ( "image/x-icon" / ... ) => define el tipo de contenido al que se enlaza

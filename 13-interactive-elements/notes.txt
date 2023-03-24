@@ -1,0 +1,14 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#interactive_elements
+
+
+<details>
+widget de revelación a través del cual el usuario puede obtener información adicional
+atributos:
+    * solo atributos globales
+
+
+<summary>
+muestra informacion contenida en <details>
+atributos:
+    * solo atributos globales

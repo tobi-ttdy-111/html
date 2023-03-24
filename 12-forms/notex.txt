@@ -1,0 +1,60 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#forms
+
+
+<form>
+sección de un documento que contiene controles interactivos que permiten a un usuario enviar información a un servidor web
+atributos:
+    * method = metodo ( "get" / "post" ) => el metodo HTTP que el navegador usa para enviar el formulario
+    * atributos globales
+
+
+<input>
+se usa para crear controles interactivos para formularios basados en la web con el fin de recibir datos del usuario
+atributos:
+    * type = tipo de entrada de dato (
+        "checkbox"  => casilla de selección
+        "color"     => control para especificar un color
+        "date"      => introducir fecha
+        "datetime"  => introducir fecha y hora
+        "email"     => campo para introducir una direccion de correo electronico
+        "file"      => permite al usuario seleccionar un archivo
+        "number"    => introducir un numero
+        "password"  => control de línea simple cuyo valor permanece oculto
+    )
+    * atributos globales
+
+
+<label>
+representa una etiqueta para un elemento en una interfaz de usuario, colocar texto
+atributos:
+    * for = elemento orientado ( "name" / "password" / ... ) => hacia que entrada <input> esta orientado
+    * atributos globales
+
+
+<button>
+elemento que crea botones marcadores
+atributos:
+    * solo atributos globales
+
+
+<select>
+representa un control que muestra un menu de opciones
+atributos:
+    * solo atributos globales
+
+
+<option>
+se usa para representar un item dentro de un <select>
+atributos:
+    * value = valor ( "seleccion1" / "perro" / "finalizar" / ... ) => representa el valor que será enviado al enviar el formulario
+    * atributos globales
+
+
+<textarea>
+representa un control para la edicion mutilinea de texto sin formato
+atributos:
+    * maxlength = numero ( "10" / "100" / ... ) => indica el numero maximo de caracteres
+    * minlength = numero ( "10" / "100" / ... ) => indica el numero minimo de caracteres
+    * placeholder = instruccion ( "comentarios" / "sugerencias" / ... ) => se puede añadir un indicación para el usuario que defina que se debe insertar en el control
+    * atributos globales

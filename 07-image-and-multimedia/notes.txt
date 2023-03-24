@@ -1,0 +1,25 @@
+
+reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#image_and_multimedia
+
+
+<audio>
+insertar contenido de audio
+atributos:
+    * src = direccion ( "./audio.mp4" / "url" / "https://..." ) => contiene la direccion del audio
+    + autoplay => el sonido comenzará a reproducirse automáticamente en cuanto sea posible
+    - controls => el navegador ofrecerá controles para permitir que el usuario controle la reproducción de audio
+
+
+<img>
+representa una imagen en el documento
+atributos:
+    * src = direccion ( "./imagen.png" / "url" / "https://..." ) => contiene la direccion de la imagen
+    * alt = "texto alternativo" => texto que describe la imagen
+
+
+<video>
+incrustar vídeos
+atributos:
+    * src = direccion ( "./video.mp4" / "url" / "https://..." ) => contiene la direccion del video
+    * autoplay => el video comenzará a reproducirse automáticamente en cuanto sea posible
+    - controls => el navegador ofrecerá controles para permitir que el usuario controle la reproducción de video
